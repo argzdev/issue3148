@@ -6,7 +6,7 @@
 - Issue 2444: [link](https://github.com/firebase/firebase-android-sdk/issues/2444) - Related
 - Issue 2665: [link](https://github.com/firebase/firebase-android-sdk/issues/2665) - Related
 ### Summary
-- Plugin Extension is not registered on versions `2.6.0+`
+- Crashlytics Plugin Extension is not registered on versions `2.6.0+`
 - Developer made a gradle task that prints out all extensions
 - `CrashlyticsExtension` is only visible on when using version `2.5.2`
 ### Steps to reproduce issue
